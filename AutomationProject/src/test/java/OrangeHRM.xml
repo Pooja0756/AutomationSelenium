@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="OrangeHRM.NewTest"/>
+       <class name="OrangeHRM.LoginHrm"/>
+        <class name="OrangeHRM.ForgotPassword"/>
+         <class name="OrangeHRM.ResetPassword"/>
+          <class name="OrangeHRM.Logouthrm"/>
+           <class name="OrangeHRM.MyInfo"/>
+            <class name="OrangeHRM.MyInfoReview"/>
+            <class name="OrangeHRM.PIM"/>
+            <class name="OrangeHRM.salaryfromMyInfo"/>
+            <class name="OrangeHRM.searchoption"/>
+             <class name="OrangeHRM.selectingrecordfromPIM"/>
+              <class name="OrangeHRM.supportFunctionality"/>
+               <class name="OrangeHRM.contactdetails"/>
+                <class name="OrangeHRM.LaunchingBrowser"/>
+                 <class name="OrangeHRM.DashBoardPage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
